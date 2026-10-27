@@ -17,7 +17,7 @@
 
 ---
 
-## 🖤 Sobre mim
+##  Sobre mim
 
 ```text
 👤 Nome       → Kamilly Vitória
