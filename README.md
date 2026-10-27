@@ -79,7 +79,7 @@ ativas e eficientes.
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamillyvitoriaalvesdasilva@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-KAMILLYVITORIAALVESDASILVA%40GMAIL.COM-6415A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Kamilly" />
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Gmail" />
 </a>
 
 <br/><br/>
