@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/KamillyVicks">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Kamilly!+%F0%9F%92%9C;Seja+bem-vindo(a)!+%F0%9F%91%8B" alt="Texto animado: Olá, eu sou a Kamilly! 👋 Seja bem-vindo(a)! 💜" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Oiii!+%F0%9F%91%8B%F0%9F%8F%BE;Eu+sou+a+Kamilly!+%F0%9F%92%9C;Seja+bem-vindo%28a%29!+%E2%9C%A8" alt="Oiii! 👋🏾 Eu sou a Kamilly! 💜 Seja bem-vindo(a)! ✨" />
   </a>
 </div>
 
