@@ -4,7 +4,6 @@
 
 <a href="https://github.com/KamillyVicks">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Kamilly!+💜;Seja+Bem+Vindo!" alt="Typing SVG" />
-</a>
 
 <br/>
 
