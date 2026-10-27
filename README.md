@@ -78,8 +78,8 @@ ativas e eficientes.
 <a href="https://www.linkedin.com/in/kamilly-vitoria-alves">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7" />
 </a>
-<a href="mailto:kamillyvitoriaalvesdasilva@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=a855f7" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamillyvitoriaalvesdasilva@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/GMAIL-KAMILLYVITORIAALVESDASILVA%40GMAIL.COM-6415A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Kamilly" />
 </a>
 
 <br/><br/>
