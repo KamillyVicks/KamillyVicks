@@ -20,10 +20,6 @@
 ##  Sobre mim
 
 ```text
-👤 Nome       → Kamilly Vitória
-
-🎓 Estudando  → Ciência da Computação
-
 💜 Objetivo   → Desenvolver minhas habilidades em programação e tecnologia, 
 aplicando meus conhecimentos em projetos práticos e explorando novas ferramentas. 
 Busco evoluir constantemente na área de análise de dados construindo soluções cri
