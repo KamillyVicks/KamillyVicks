@@ -68,7 +68,7 @@ ativas e eficientes.
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**Nome do Projeto 1**](https://github.com/KamillyVicks/Salao) | Desenvolvimento de um banco de dados SQL para gerenciamento de um salão de beleza | `HTML` |
+| [**Banco de Dados - Salão**](https://github.com/KamillyVicks/Salao) | Desenvolvimento de um banco de dados SQL para gerenciamento de um salão de beleza | `HTML` |
 
 ---
 
